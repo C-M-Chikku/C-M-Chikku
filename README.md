@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Mandal (C.M.Chikku)</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate designer from India</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=C-M-Chikku&label=Profile%20views&color=0e75b6&style=flat" alt="C-M-Chikku" /> 
 </p>
